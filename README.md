@@ -36,3 +36,5 @@ unsetenv [var]	Remove an environment variable.
 cd [dir]	Change the directory.
 help [built-in]	Read documentation for a built-in.
 Credits
+
+All code wwritten by https://github.com/Antonysyl and https://github.com/wealthwissy
