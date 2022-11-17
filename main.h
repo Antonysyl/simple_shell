@@ -34,7 +34,7 @@ int status;
 int counter;
 char **_environ;
 char *pid;
-}data_shell;
+} data_shell;
 /**
  * struct sep_list_s - single linked list
  * @separator: ; | &
